@@ -7,3 +7,6 @@ may need -a to commit all
 may need to set 'git config user.email eam565@...' and 'git config user.name Emma Mumford'
 for ^ avoid global if possible
 'git push origin main' to push the branch 'main' to the remote location 'origin'
+'git branch branch_name' to make a new branch called branch_name
+'git checkout branch_name' to move to the branch_name branch
+'git merge branch_name' to merge the branch_name branch into whatever branch currently in
